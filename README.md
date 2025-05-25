@@ -1,6 +1,7 @@
 # React + Vite
 
 This an example website with the use of complex animation:
+
 👉 Scroll-Based Animations: Dynamic animations triggered by scrolling for a more engaging user experience.
 
 👉 Clip Path Shaped Animations: Unique geometric transitions using CSS clip-paths to create visually stunning effects.
